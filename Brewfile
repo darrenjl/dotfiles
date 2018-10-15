@@ -13,6 +13,7 @@ brew 'hh'
 brew 'tldr'
 brew 'trash'
 brew 'jq'
+brew 'direnv'
 brew 'autojump'
 
 cask 'google-chrome'
