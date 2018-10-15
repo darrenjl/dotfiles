@@ -14,3 +14,7 @@ ln -s $ZSH/custom/themes/spaceship-prompt/spaceship.zsh-theme $ZSH/custom/themes
 
 # Copy zshrc
 cp .zshrc ~/.
+cp .gitconfig ~/.
+cp .bash_prompt ~/.
+cp .aliases ~/.
+

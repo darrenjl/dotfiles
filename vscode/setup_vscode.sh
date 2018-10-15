@@ -6,8 +6,7 @@ set -eo pipefail
 brew cask install visual-studio-code
 
 # Install extensions
-#code --install-extension dbaeumer.vscode-eslint
-#code --install-extension monokai.theme-monokai-pro-vscode
+code --install-extension dbaeumer.vscode-eslint
 
 # Copy user settings.json
 mkdir -p ~/Library/Application\ Support/Code/User
