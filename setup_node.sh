@@ -11,3 +11,6 @@ export NVM_DIR="$HOME/.nvm"
 
 echo "Installing node..."
 nvm install --lts
+nvm use node
+
+
